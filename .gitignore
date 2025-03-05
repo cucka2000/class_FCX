@@ -5,7 +5,7 @@ __pycache__/
 ciao/*
 # C extensions
 *.so
-
+.DS_store
 # Distribution / packaging
 .Python
 build/
